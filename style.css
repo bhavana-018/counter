@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'DreamerTM-Regular';
+    src: url('fonts/dreamer/DreamerTM-Regular.ttf') format('truetype');
+}
+body {
+    place-items: center;
+    min-height: 100vh;
+}
+#d1{
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    background-color: rgb(255, 192, 203);
+    height: 20em;
+    width: 15em;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px rgb(133, 130, 130);
+}
+#d1_1{
+    background-color: rgb(212, 105, 123);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#l1{
+    font-size: 7em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50%;
+    color: rgba(116, 111, 111, 0.668);
+}
+.b{
+    border-radius: 5px;
+    border-color: blanchedalmond;
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px 10px;
+}
+
+.b:hover{
+    background-color: rgb(248, 212, 168);
+}
+
+
