@@ -1,7 +1,3 @@
-@font-face{
-    font-family: 'DreamerTM-Regular';
-    src: url('fonts/dreamer/DreamerTM-Regular.ttf') format('truetype');
-}
 body {
     place-items: center;
     min-height: 100vh;
